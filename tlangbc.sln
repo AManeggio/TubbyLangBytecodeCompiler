@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tlangbc", "tlangbc\tlangbc.csproj", "{D4789D82-BAA5-4AE9-86D2-C10FF3B5701F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tlanngbruntime", "..\tlangbruntime\tlanngbruntime\tlanngbruntime.csproj", "{2E7E6A8C-268F-41FC-BAFE-D73279F6943E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4789D82-BAA5-4AE9-86D2-C10FF3B5701F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4789D82-BAA5-4AE9-86D2-C10FF3B5701F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4789D82-BAA5-4AE9-86D2-C10FF3B5701F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4789D82-BAA5-4AE9-86D2-C10FF3B5701F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7E6A8C-268F-41FC-BAFE-D73279F6943E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7E6A8C-268F-41FC-BAFE-D73279F6943E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7E6A8C-268F-41FC-BAFE-D73279F6943E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7E6A8C-268F-41FC-BAFE-D73279F6943E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

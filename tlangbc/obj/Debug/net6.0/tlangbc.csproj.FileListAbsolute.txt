@@ -1,0 +1,15 @@
+/home/austenm/RiderProjects/tlangbc/tlangbc/bin/Debug/net6.0/tlangbc
+/home/austenm/RiderProjects/tlangbc/tlangbc/bin/Debug/net6.0/tlangbc.deps.json
+/home/austenm/RiderProjects/tlangbc/tlangbc/bin/Debug/net6.0/tlangbc.runtimeconfig.json
+/home/austenm/RiderProjects/tlangbc/tlangbc/bin/Debug/net6.0/tlangbc.dll
+/home/austenm/RiderProjects/tlangbc/tlangbc/bin/Debug/net6.0/ref/tlangbc.dll
+/home/austenm/RiderProjects/tlangbc/tlangbc/bin/Debug/net6.0/tlangbc.pdb
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.csproj.AssemblyReference.cache
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.GeneratedMSBuildEditorConfig.editorconfig
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.AssemblyInfoInputs.cache
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.AssemblyInfo.cs
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.csproj.CoreCompileInputs.cache
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.dll
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/ref/tlangbc.dll
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.pdb
+/home/austenm/RiderProjects/tlangbc/tlangbc/obj/Debug/net6.0/tlangbc.genruntimeconfig.cache

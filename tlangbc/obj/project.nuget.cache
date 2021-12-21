@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VF63+4LKzkLJscaATEXZQDWEoYVsRFgYbZuA9tX7vbogjG2EDR1L02+5nrMXN93ZTyIF00Fq33Z5XbnKqGKfg==",
+  "success": true,
+  "projectFilePath": "/home/austenm/RiderProjects/tlangbc/tlangbc/tlangbc.csproj",
+  "expectedPackageFiles": [
+    "/home/austenm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
